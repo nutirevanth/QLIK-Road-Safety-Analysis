@@ -6,4 +6,10 @@ Full Project:
 google drive Preprocessed Dataset:
 https://drive.google.com/drive/u/0/folders/1c8WPRf8w2UusfCMWkkQ6r9aQmOrOG97f
 
+Story Telling:
+https://drive.google.com/file/d/12Qr5jrLNH09iIdmmfkocx3U_yHKdcqGH/view
+
+Documentation:
+https://drive.google.com/file/d/1nqkwsLRWROSdwejb1Fk8cYwWkbcjWyle/view
+
 
